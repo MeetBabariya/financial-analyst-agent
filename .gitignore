@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Secrets
+.env
+
+# yfinance cache
+.cache/
+
+# OS
+.DS_Store
